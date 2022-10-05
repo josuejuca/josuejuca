@@ -1,7 +1,12 @@
 ## Olá 👋, Eu sou o Juca!
+
+<a  href="https://github.com/josuejuca/"><img align="right" src="https://komarev.com/ghpvc/?username=josuejuca" alt="page views" /></a>
 <a href="https://instagram.com/ojosuejuca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.discordapp.com/users/732714469439832225" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josuejuca19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<br>
+
 
 Meu nomé é Josué Juca 😆, mas todos me conhecem como Juca, sou estudante de programação 😏,adoro explorar novas pilhas de tecnologia 💻 e aproveitá-las para construir coisas legais 🛠️.
 <br/>
