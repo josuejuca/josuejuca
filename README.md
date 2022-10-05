@@ -81,7 +81,7 @@ Meu nomé é Josué Juca 😆, mas todos me conhecem como Juca, sou estudante de
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/josuejuca/">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejuca&langs_count=7&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
