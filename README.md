@@ -76,22 +76,6 @@ Meu nomé é Josué Juca 😆, mas todos me conhecem como Juca, sou estudante de
 
 <p align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=josuejuca&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  <div align=center>
-    <a href="https://github.com/josuejuca/" >
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=josuejuca&theme=react&border=61dafb&hide_border=true" alt="Grafico" />
-    </a>
-    <a href="https://github.com/josuejuca/">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=josuejuca&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/josuejuca/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejuca&langs_count=7&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=josuejuca&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <div align="center">
