@@ -16,7 +16,7 @@ Meu nomé é Josué Juca 😆, mas todos me conhecem como Juca, sou estudante de
   
 ### 🧐 Mais sobre mim:
 
-- 😎 &nbsp; Tenho 18 Anos
+- 😎 &nbsp; Tenho 19 Anos
 - 🌱 &nbsp; Atualmente estou aprendendo Python; 
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/josuejuca?tab=repositories)
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar
