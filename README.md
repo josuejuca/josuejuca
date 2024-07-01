@@ -23,7 +23,7 @@
 </br>
 
 ## Spotify 🎧
-[![https://spotify-github-profile.vercel.app/api/view?uid=tnk1ms71mkuxpkjvpb27cqye9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.vercel.app/api/view?uid=tnk1ms71mkuxpkjvpb27cqye9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/tnk1ms71mkuxpkjvpb27cqye9?si=c563a08a115b461b&nd=1&dlsi=a2b2f4df123d4d77)
+[![https://spotify-github-profile.vercel.app/api/view?uid=tnk1ms71mkuxpkjvpb27cqye9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=tnk1ms71mkuxpkjvpb27cqye9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/tnk1ms71mkuxpkjvpb27cqye9?si=c563a08a115b461b&nd=1&dlsi=a2b2f4df123d4d77)
 
 </br>
 
