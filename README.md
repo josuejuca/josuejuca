@@ -4,7 +4,7 @@
 <a href="https://www.discordapp.com/users/732714469439832225" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:josuejuca19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3 align="center">Meu nome é Josué Juca, mas todos me conhecem como Juca, sou estudante de programação, adoro explorar novas pilhas de tecnologia 💻 e aproveitá-las para construir coisas legais 🛠️.</h3>
+<h3 align="center">Meu nome é Josué Juca, mas todos me conhecem como Juca, sou desenvolvedor full-stack, adoro explorar novas pilhas de tecnologia 💻 e aproveitá-las para construir coisas legais 🛠️.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
