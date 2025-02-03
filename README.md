@@ -10,7 +10,7 @@
 
 ### 🧐 Mais sobre mim:
 
-- 😎 &nbsp; Tenho 19 Anos
+- 😎 &nbsp; Tenho 21 Anos
 - 📚 &nbsp; Atualmente estou cursando engenharia de sofware
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/josuejuca?tab=repositories)
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar
