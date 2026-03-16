@@ -1,22 +1,22 @@
-<h1 align="center">Olá 👋, Eu sou o Juca</h1>
-<a  href="https://github.com/josuejuca/"><img align="right" src="https://komarev.com/ghpvc/?username=josuejuca" alt="page views" /></a>
+<h1 align="center">Hello 👋, I'm Juca</h1>
+<a href="https://github.com/josuejuca/"><img align="right" src="https://komarev.com/ghpvc/?username=josuejuca" alt="page views" /></a>
 <a href="https://instagram.com/ojosuejuca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.discordapp.com/users/732714469439832225" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:josuejuca19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:josuejuca19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3 align="center">Meu nome é Josué Juca, mas todos me conhecem como Juca, sou desenvolvedor full-stack, adoro explorar novas pilhas de tecnologia 💻 e aproveitá-las para construir coisas legais 🛠️.</h3>
+<h3 align="center">My name is Josué Juca, but everyone knows me as Juca. I’m a full-stack developer who loves exploring new technology stacks 💻 and using them to build cool things 🛠️.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### 🧐 Mais sobre mim:
+### 🧐 More about me:
 
-- 😎 &nbsp; Tenho 22 Anos
-- 📚 &nbsp; Atualmente estou cursando engenharia de sofware
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/josuejuca?tab=repositories)
-- 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar
-- 📫 &nbsp; A minha conta no [LinkedIn](https://www.linkedin.com/in/josuejuca/)
-- 📺 &nbsp; Gosto de lê e assistir animes 
-- 🎮 &nbsp; Sou apaixonado por jogos, essa é minha conta da [Steam](https://steamcommunity.com/id/josuejuca)
+- 😎 &nbsp; I'm 22 years old
+- 📚 &nbsp; Currently studying Software Engineering
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/josuejuca?tab=repositories)
+- 💬 &nbsp; Ask me anything related to technology, I'll be happy to help
+- 📫 &nbsp; My [LinkedIn](https://www.linkedin.com/in/josuejuca/)
+- 📺 &nbsp; I enjoy reading and watching anime
+- 🎮 &nbsp; I'm passionate about games, this is my [Steam](https://steamcommunity.com/id/josuejuca)
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -27,14 +27,13 @@
 
 </br>
 
-## Meus troféus
+## My Trophies
 
 <p align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=josuejuca&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
 </p>
 
-
-## Minhas Skills
+## My Skills
 
 <p align="center">
     <a href="https://josuejuca.com">
