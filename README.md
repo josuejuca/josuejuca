@@ -27,12 +27,6 @@
 
 </br>
 
-## My Trophies
-
-<p align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=josuejuca&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-</p>
-
 ## My Skills
 
 <p align="center">
